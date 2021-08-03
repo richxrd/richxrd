@@ -4,21 +4,18 @@
   <img src="https://avatars.githubusercontent.com/u/52021889?v=4" height="150"/>
 </h1>
 
-</br>
 
-<p align = "center">
+<h3 align = "center">
   <samp>
     Hi, my name is Richard!
   </samp>  
-</p>
+</h3>
 
-<br>
-
-<p align = "center">
+<h4 align = "center">
   <samp>
     A Computer Science student based in New York City, and a aspiring Software Engineer.
   </samp>  
-</p>
+</h4>
 
 <br>
 
@@ -27,3 +24,7 @@
     I am highly motivated to explore the different fields in tech such as Information Technology, Software Development, Cloud Computing, and Data Science.
   </samp>
 </p>
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=richxrd&hide=contribs,prs,stars,issues&count_private=true&show_icons=true&theme=dracula&custom_title=My\ Stats)
+
+
