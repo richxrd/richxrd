@@ -8,7 +8,15 @@
 
 <p align = "center">
   <samp>
-    Hi! My name is Richard, a Computer Science student based in New York City, and a aspiring Software Engineer.
+    Hi, my name is Richard!
+  </samp>  
+</p>
+
+<br>
+
+<p align = "center">
+  <samp>
+    A Computer Science student based in New York City, and a aspiring Software Engineer.
   </samp>  
 </p>
 
