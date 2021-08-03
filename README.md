@@ -1,7 +1,7 @@
 </br></br>
 
 <h1 align="center">
-  <img src="https://avatars.githubusercontent.com/u/52021889?v=4" height="150"/>
+  <img src="https://github.com/richxrd/richxrd/blob/main/profilepicture.png?raw=true" height="150"/>
 </h1>
 
 
