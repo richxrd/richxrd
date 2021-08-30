@@ -21,7 +21,7 @@
 
 <p align = "center">
   <samp>
-    I am highly motivated to explore the different fields in tech such as Information Technology, Software Development, Data Science, and Cloud Computing.
+    I am highly motivated to explore the different fields in tech such as Information Technology, Software Development, Data Science, Cloud Computing, and Cyber Security.
   </samp>
 </p>
 
