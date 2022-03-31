@@ -19,14 +19,6 @@
 
 <br>
 
-<p align = "center">
-  <samp>
-    I am highly motivated to explore the different fields in tech such as Information Technology, Software Development, Data Science, Cloud Computing, and Cyber Security.
-  </samp>
-</p>
-
-<br>
-
 <p align="center">
   <img src="https://github.com/richxrd/richxrd/blob/main/profilegif.gif?raw=true" height = 360>
 </p>
