@@ -8,14 +8,14 @@
 <h3 align = "center">
   <samp>
     Hi, my name is Richard!
-  </samp>  
+  </samp> 
 </h3>
 
-<h4 align = "center">
+<h5 align = "center">
   <samp>
-    A Computer Science student based in New York City, and a aspiring Software Engineer.
+    Computer Science student based in New York City
   </samp>  
-</h4>
+</h5>
 
 <br>
 
